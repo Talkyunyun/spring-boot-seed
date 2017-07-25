@@ -1,4 +1,4 @@
-package com.gene;
+package com.mmlogs;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.gene;
+package com.mmlogs;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
