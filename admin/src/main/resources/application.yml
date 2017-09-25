@@ -1,0 +1,4 @@
+# 主配置文件
+server:
+  port: 8080
+  context-path: /admin
